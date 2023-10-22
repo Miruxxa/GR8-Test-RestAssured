@@ -1,6 +1,5 @@
 package org.GR8.api.utils.api;
 
-import org.GR8.api.utils.api.ApiEndPoints;
 import org.GR8.core.ProdProperties;
 import org.GR8.core.TestInitValues;
 import org.aeonbits.owner.ConfigFactory;
