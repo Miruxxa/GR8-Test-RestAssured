@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test_task_GR8" parallel="tests" thread-count="1" configfailurepolicy="continue">
+
+    <test name="Open_Brewery_DB_tests">
+        <classes>
+            <class name="searchBreweryTests.SearchBreweryTests"/>
+        </classes>
+    </test>
+
+</suite>
